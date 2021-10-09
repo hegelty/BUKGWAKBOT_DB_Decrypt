@@ -1,6 +1,7 @@
 /**
- * 원저작자 : Hibot(https://github.com/hui1601/libdream)
- * 수정 : hegelty
+ * 원저작자 : hui1601(https://github.com/hui1601/libdream)
+ * 1차 수정 : Hibot(https://cafe.naver.com/nameyee/27185)
+ * 2차 수정 : hegelty
  * 라이선스 :  GPL3.0
  */
 
